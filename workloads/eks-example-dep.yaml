@@ -2,7 +2,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: eks-example
+  name: eks-example-test
   namespace: eks-example
   labels:
     app: eks-example
